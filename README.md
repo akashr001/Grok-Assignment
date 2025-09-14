@@ -12,7 +12,7 @@
   4. Truncates history to last `MAX_TURNS` messages.
 
 
-Task 2: JSON Schema Classification & Extraction
+###Task 2: JSON Schema Classification & Extraction
 
 ###How it Works
    1.Take a chat message as input.
