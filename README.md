@@ -20,7 +20,6 @@
 * Useful for collecting user details like name, email, phone, location, and age.
 
 ### **How it Works**
-
 * `info_schema` defines the required fields: `name`, `email`, `phone`, `location`, `age`.
 * `extract_info(user_input)` function:
 
