@@ -12,11 +12,4 @@
   4. Truncates history to last `MAX_TURNS` messages.
 
 
-###Task 2: JSON Schema Classification & Extraction
-
-###How it Works
-   1.Take a chat message as input.
-   2.Send it to Groq API along with the schema.
-   3.API returns the extracted details in JSON format.
-   4.The function prints or returns the structured data.
 
